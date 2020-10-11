@@ -1,0 +1,81 @@
+{
+	"users" : [
+		{
+      "id": 1,
+      "nama": "Aby",
+      "domisili": "Pekanbaru",
+      "fakultas": "Fakultas Teknik Informatika",
+      "nim": "181011402828"
+    },
+    {
+      "id": 2,
+      "nama": "Jonny Panbit",
+      "domisili": "Batam",
+      "fakultas": "Fakultas Hukum",
+      "nim": "181011402830"
+    },
+    {
+      "id": 3,
+      "nama": "Nely",
+      "domisili": "Aceh",
+      "fakultas": "Fakultas Ekonomi",
+      "nim": "181011403092"
+    },
+    {
+      "id": 4,
+      "nama": "Rico",
+      "domisili": "MEdan",
+      "fakultas": "Fakultas Hukum",
+      "nim": "181011403091"
+    },
+    {
+      "id": 5,
+      "nama": "Subhan",
+      "domisili": "Sidoarjo",
+      "fakultas": "Fakultas Teknik Elektro",
+      "nim": "181011403002"
+    },
+    {
+      "id": 6,
+      "nama": "Siska",
+      "domisili": "Jakarta",
+      "fakultas": "Fakultas Ekonomi",
+      "nim": "181011403039"
+    },
+    {
+      "id": 7,
+      "nama": "Melly",
+      "domisili": "Bandung",
+      "fakultas": "Fakultas Ekonomi",
+      "nim": "181011403098"
+    },
+    {
+      "id": 8,
+      "nama": "Sendy",
+      "domisili": "Bandung",
+      "fakultas": "Fakultas Teknik Informatika",
+      "nim": "181011403022"
+    },
+    {
+      "id": 9,
+      "nama": "Arsy",
+      "domisili": "Aceh",
+      "fakultas": "Fakultas Teknik Elektro",
+      "nim": "181011403097"
+    },
+    {
+      "id": 10,
+      "nama": "Khareem",
+      "domisili": "Aceh",
+      "fakultas": "Fakultas Teknik Elektro",
+      "nim": "181011403048"
+    },
+    {
+      "id": 11,
+      "nama": "Hendro",
+      "domisili": "Surabaya",
+      "fakultas": "Fakultas Teknik Informatika",
+      "nim": "181011403018"
+    }
+	]
+}
